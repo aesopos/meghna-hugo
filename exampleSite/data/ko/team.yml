@@ -34,12 +34,11 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
+  - name: 주하늘
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: 팀원/영업
+    content: 한마디
     social:
     - icon: ti-facebook
       link: "#"
