@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/aesop.jpg
+  bg_image_webp: ''
   bg_image: images/aesop.jpg
   icon: ''
   title: ''
