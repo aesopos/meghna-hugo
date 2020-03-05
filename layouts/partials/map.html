@@ -1,21 +1,9 @@
 {{ if .Site.Params.map.enable }}
 {{"<!-- Google Map -->" | safeHTML}}
-<!-- <div class="google-map">
+<div class="google-map">
 	<div id="map" data-latitude="{{ .Site.Params.map.map_latitude }}"
 	data-longitude="{{ .Site.Params.map.map_longitude }}"
 	data-marker="{{ .Site.Params.map.map_marker | absURL }}"
 	data-marker-name="{{ .Site.Title }}"></div>
-</div> -->
-
-<div id="map">
-    <script>
-      var map;
-      function initMap() {
-        map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 36.322181, lng: 127.410475}
-        });
-      }
-    </script></div>
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&callback=initMap"
-    async defer></script> -->
+</div>
 {{ end }}
