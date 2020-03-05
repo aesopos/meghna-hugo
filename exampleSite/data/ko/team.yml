@@ -48,12 +48,11 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: 신입
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: 팀원/편집
+    content: 언제나 새로운 인재를 뽑고있습니다.
     social:
     - icon: ti-facebook
       link: "#"
