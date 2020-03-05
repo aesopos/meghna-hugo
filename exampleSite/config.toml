@@ -44,7 +44,7 @@ weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
-google_analitycs_id = ""
+google_analitycs_id = "UA-156657834-1"
 logo = "images/favicon.png"
 post_share = true
 [params.map]

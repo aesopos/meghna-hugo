@@ -9,7 +9,7 @@ contact:
   form_action: "#"
   map:
     enable: true
-    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places
+    gmap_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places"
     map_latitude: "36.322181"
     map_longitude: "127.410475"
   contact_details:
