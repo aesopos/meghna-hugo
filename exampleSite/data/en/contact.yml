@@ -16,7 +16,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: +82-042-342-4600'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email : aesoposinc@gmail.com'
   map:
     enable: true
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places
