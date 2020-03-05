@@ -133,13 +133,13 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
+[Languages.ko]
+languageName = "Ko"
+languageCode = "ko-kr"
+contentDir = "content/korea"
+weight = 1
+home = "홈"
