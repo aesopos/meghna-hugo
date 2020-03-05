@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Dernier message
+  translation: 이야기
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
