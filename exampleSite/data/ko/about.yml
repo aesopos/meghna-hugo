@@ -1,16 +1,17 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About Us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: 당신의 꿈을 동화로
+    content: 사업을 시작하실때 어떻게 할지 성공해야겠다는 마음으로 시작하신 당신의 꿈을 이솝이야기가 항상 행복한 결말을 주는 동화처럼 이야기를
+      만들어드리겠습니다.
+  - icon: ti-cup
+    title: We're Professional
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-thought
+    title: We're Genius
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+      libero, perspiciatis eos provident laborum eum dignissimos.
