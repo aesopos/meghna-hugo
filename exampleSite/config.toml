@@ -5,18 +5,18 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Meghna"
-[Languages.ko]
-contentDir = "content/korea"
-home = "홈"
-languageCode = "ko-kr"
-languageName = "Ko"
-weight = 1
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 2
+[Languages.ko]
+contentDir = "content/korea"
+home = "홈"
+languageCode = "ko-kr"
+languageName = "Ko"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "회사소개"
@@ -82,7 +82,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/aesoposinc/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
