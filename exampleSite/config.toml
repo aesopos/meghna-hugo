@@ -19,28 +19,28 @@ languageName = "Ko"
 weight = 1
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "회사소개"
 weight = 1
 [[menu.main]]
-URL = "services"
-name = "Service"
-weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "contact"
+name = "고객지원"
 weight = 6
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
+URL = "blog"
+name = "이야기"
+weight = 5
+[[menu.main]]
+URL = "team"
+name = "직원소개"
+weight = 4
+[[menu.main]]
+URL = "portfolio"
+name = "포트폴리오"
+weight = 3
+[[menu.main]]
+URL = "services"
+name = "서비스"
+weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
