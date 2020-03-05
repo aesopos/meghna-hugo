@@ -1,4 +1,5 @@
 baseURL = "https://goofy-hodgkin-847a6b.netlify.com"
+DefaultContentLanguage = "ko"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
