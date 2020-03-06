@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: 회사 소개
   about_item:
   - icon: ti-ruler-pencil
     title: 당신의 꿈을 동화로
