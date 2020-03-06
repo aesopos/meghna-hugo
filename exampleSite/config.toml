@@ -20,27 +20,23 @@ languageName = "Ko"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "서비스"
 weight = 2
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
 URL = "team"
-name = "Team"
+name = "팀원소개"
 weight = 4
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "이야기"
 weight = 5
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "고객지원"
 weight = 6
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "회사소개"
 weight = 1
 [params]
 author = "Themefisher"
