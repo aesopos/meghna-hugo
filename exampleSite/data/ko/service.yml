@@ -6,10 +6,9 @@ service:
   - name: 광고영상제작
     icon: ti-world
     content: 획기적인 아이디어로 뭉친 기발한 이야기로 최고의 영상을 제작.
-  - name: Responsive Design
+  - name: 경영 컨설팅
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 전문가 집단지성으로 경영방향제시 와 교육을 함께 제공합니다.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
