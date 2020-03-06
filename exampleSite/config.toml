@@ -19,6 +19,10 @@ languageCode = "ko-kr"
 languageName = "Ko"
 weight = 1
 [[menu.main]]
+URL = "portfolio"
+name = "포트폴리오"
+weight = 3
+[[menu.main]]
 URL = "services"
 name = "서비스"
 weight = 2
