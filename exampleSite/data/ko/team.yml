@@ -21,10 +21,7 @@ team:
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
     designation: 대표이사/감독
-    content: |-
-      자본주의에 꽃은 마케팅이다.
-      동화같은 꿈을 꾸듯 누구도 상상하지 못한
-      아름다운 영상을 만들겠습니다.
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
