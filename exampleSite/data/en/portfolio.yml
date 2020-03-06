@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      vlink : ""
+      vlink : "https://www.youtube.com/watch?v=GDtlXBbqJic"
       link : "https://themefisher.com"
 
       
