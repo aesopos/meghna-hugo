@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: 직원소개
+  title: 직원 소개
   team_member:
   - name: 황정환
     image_webp: images/team/team-1.webp
