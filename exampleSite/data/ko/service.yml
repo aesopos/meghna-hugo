@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: 서비스 분야
   service_item:
   - name: 광고영상제작
     icon: ti-world
