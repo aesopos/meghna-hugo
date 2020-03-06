@@ -1,5 +1,5 @@
-baseURL = "https://goofy-hodgkin-847a6b.netlify.com"
 DefaultContentLanguage = "ko"
+baseURL = "https://goofy-hodgkin-847a6b.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
@@ -19,29 +19,29 @@ languageCode = "ko-kr"
 languageName = "Ko"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "회사소개"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "고객지원"
-weight = 6
-[[menu.main]]
-URL = "blog"
-name = "이야기"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "직원소개"
-weight = 4
+URL = "services"
+name = "Service"
+weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "포트폴리오"
+name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "services"
-name = "서비스"
-weight = 2
+URL = "team"
+name = "Team"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
+URL = "about"
+name = "About US"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
