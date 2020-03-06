@@ -49,7 +49,7 @@ team:
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: 팀원/편집
-    content: 언제나 새로운 인재를 뽑고있습니다.
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
