@@ -9,10 +9,9 @@ service:
   - name: 경영 컨설팅
     icon: ti-layout
     content: 전문가 집단지성으로 경영방향제시 와 교육을 함께 제공합니다.
-  - name: Media &amp; Advertisement
+  - name: 홍보 & 마케팅
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 가장 효율적이고 즉각적인 피드백을 받아볼 수 있는 방법을 제시 합니다.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
