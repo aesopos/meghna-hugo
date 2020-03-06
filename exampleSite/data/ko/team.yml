@@ -35,7 +35,7 @@ team:
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: 팀원/영업
-    content: 한마디
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
