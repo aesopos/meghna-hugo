@@ -43,8 +43,7 @@ portfolio:
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Business Card
