@@ -7,7 +7,7 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: 대표이사/영업
-    content: 한마디
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
