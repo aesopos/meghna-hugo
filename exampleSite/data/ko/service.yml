@@ -12,7 +12,3 @@ service:
   - name: 홍보 & 마케팅
     icon: ti-blackboard
     content: 가장 효율적이고 즉각적인 피드백을 받아볼 수 있는 방법을 제시 합니다.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
