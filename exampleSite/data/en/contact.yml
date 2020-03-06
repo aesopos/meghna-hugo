@@ -8,6 +8,11 @@ contact:
 
     Company Registration Number 685-81-01570
   form_action: "#"
+  map:
+    enable: true
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places
+    map_latitude: "36.322181"
+    map_longitude: "127.410475"
   contact_details:
   - icon: ti-location-pin
     info: 1203, 12F, 1719, Gyebaek-ro, Jung-gu, Daejeon, Republic of Korea
@@ -17,8 +22,4 @@ contact:
     info: 'Fax: +82-042-342-4600'
   - icon: ti-email
     info: 'Email : aesoposinc@gmail.com'
-  map:
-    enable: true
-    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places
-    map_latitude: "36.322181"
-    map_longitude: "127.410475"
+
