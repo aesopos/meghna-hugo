@@ -43,8 +43,6 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: "#"
-    - icon: ti-dribbble
-      link: "#"
   - name: 김항비
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
