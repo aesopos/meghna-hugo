@@ -91,11 +91,5 @@ link = "https://twitter.com/EEbrISEmaq0eyP6"
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCsQXmhPu_t332OTCVSQHYFg?view_as=subscriber"
 [[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
+icon = "ti-instagram"
 link = "#"
