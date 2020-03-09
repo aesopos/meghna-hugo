@@ -48,7 +48,7 @@ team:
   - name: 김항비
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: 팀원/편집
+    designation: 팀장/편집
     content: ''
     social:
     - icon: ti-facebook
