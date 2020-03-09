@@ -12,10 +12,9 @@ feature:
   - title: 마케팅 분석
     icon: ti-panel
     content: ''
-  - title: SEO Optimized
+  - title: 매출 분석
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
