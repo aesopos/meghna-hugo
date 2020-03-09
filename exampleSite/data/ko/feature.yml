@@ -9,10 +9,9 @@ feature:
   - title: 경영분석
     icon: ti-world
     content: ''
-  - title: Easy Customization
+  - title: 마케팅 분석
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
