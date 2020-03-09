@@ -34,7 +34,7 @@ team:
   - name: 주하늘
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: 팀원/영업
+    designation: 팀장/기획
     content: ''
     social:
     - icon: ti-facebook
