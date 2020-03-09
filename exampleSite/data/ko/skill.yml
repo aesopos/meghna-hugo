@@ -10,7 +10,7 @@ skill:
   skill_item:
   - name: 경영분석
     percent: 90%
-  - name: Analysis
+  - name: 마케팅 설계
     percent: 70%
   - name: Design
     percent: 80%
