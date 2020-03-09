@@ -14,7 +14,3 @@ skill:
     percent: 70%
   - name: 영상제작
     percent: 80%
-  - name: IOS Development
-    percent: 95%
-  - name: Andriod Development
-    percent: 75%
