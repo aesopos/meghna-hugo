@@ -2,17 +2,17 @@
 - id: blogTitle
   translation: 이야기
 - id: readMore
-  translation: Lire la suite
+  translation: readMore
 - id: viewAllPost
-  translation: Voir tous les articles
+  translation: viewAllPost
 - id: share
-  translation: Partager
+  translation: share
 - id: aboutAuthor
-  translation: À propos de l'auteur
+  translation: aboutAuthor
 - id: authorsPosts
-  translation: Articles de l'auteur
+  translation: authorsPosts
 - id: submit
-  translation: Soumettre
+  translation: 문의하기 (submit)
 - id: all
   translation: All
 - id: copyright
