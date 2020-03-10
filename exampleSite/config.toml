@@ -1,5 +1,5 @@
 DefaultContentLanguage = "ko"
-baseURL = "https://aesopos.netlify.com"
+baseURL = "https://aesopos.co.kr"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
