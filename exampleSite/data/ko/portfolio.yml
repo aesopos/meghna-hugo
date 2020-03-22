@@ -3,12 +3,13 @@ portfolio:
   enable: true
   title: 포트 폴리오
   portfolio_item:
-  - name: Tag Design
+  - name: Intro. [with us]
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
-    categories: []
+    categories:
+    - Film
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    link: https://www.youtube.com/watch?v=GDtlXBbqJic
+    link: https://youtu.be/LVcYBwrQvgU
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
