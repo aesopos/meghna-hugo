@@ -12,5 +12,4 @@ service:
       are provided together.
   - name: PR & Marketing
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Provide the way to get the most efficient and immediate feedback
