@@ -10,7 +10,7 @@ service:
     icon: ti-layout
     content: As a collective intelligence of experts, management direction and education
       are provided together.
-  - name: Media &amp; Advertisement
+  - name: PR & Marketing
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
