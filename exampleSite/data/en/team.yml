@@ -3,7 +3,7 @@ team:
   enable: true
   title: Introduction of staff
   team_member:
-  - name: Hwang jung hwan
+  - name: Hwang
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: CEO/Business Sales
