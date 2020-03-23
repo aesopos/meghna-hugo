@@ -15,10 +15,9 @@ feature:
     icon: ti-panel
     content: Develop marketing methods through complete analysis of customer products
       and services.
-  - title: SEO Optimized
+  - title: Sales Analysis
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Cost and sales analysis to increase customer's maximum profit
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
