@@ -8,7 +8,7 @@ feature:
   feature_item:
   - title: 경영분석
     icon: ti-world
-    content: ''
+    content: 전문가의 세심한 조사 및 관찰을 통한 정확한 경영분석/진단
   - title: 마케팅 분석
     icon: ti-panel
     content: ''
