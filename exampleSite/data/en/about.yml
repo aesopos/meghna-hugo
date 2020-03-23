@@ -4,11 +4,11 @@ about:
   title: Company Introduction
   about_item:
   - icon: ti-ruler-pencil
-    title: A story like a fairy tale
+    title: ''
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-cup
-    title: We're Professional
+    title: The best experts
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-thought
