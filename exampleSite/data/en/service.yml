@@ -6,10 +6,10 @@ service:
   - name: Advertising video production
     icon: ti-world
     content: Produce the best video with a brilliant story of groundbreaking ideas.
-  - name: Responsive Design
+  - name: Management consulting
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: As a collective intelligence of experts, management direction and education
+      are provided together.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
