@@ -3,10 +3,10 @@ team:
   enable: true
   title: Introduction of staff
   team_member:
-  - name: Abul Mal Muhit
+  - name: Hwang jung hwan
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
+    designation: CEO/Business Sales
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
