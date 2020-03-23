@@ -6,7 +6,7 @@ service:
   - name: Advertising video production
     icon: ti-world
     content: Produce the best video with a brilliant story of groundbreaking ideas.
-  - name: Management consulting
+  - name: Management Consulting
     icon: ti-layout
     content: As a collective intelligence of experts, management direction and education
       are provided together.
