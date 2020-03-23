@@ -4,13 +4,13 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: Marketing Solutions / Video Producers
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: We will help you make the best choice by accurately determining and analyzing
+    your business in all areas.
   feature_item:
-  - title: SEO Optimized
+  - title: Management Analysis
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Accurate management analysis and diagnosis through careful investigation
+      and observation by experts.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
