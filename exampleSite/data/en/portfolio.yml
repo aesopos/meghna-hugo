@@ -9,7 +9,7 @@ portfolio:
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    vlink: https://youtu.be/LVcYBwrQvgU
+    vlink: https://www.youtube.com/watch?v=LVcYBwrQvgU&feature=youtu.be
     link: https://themefisher.com
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
