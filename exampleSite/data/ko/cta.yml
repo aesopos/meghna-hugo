@@ -1,11 +1,11 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: 세심한 분석을 통한 완벽한 솔루션 제공
+  content: 사업을 잘 못 하는 것은 없습니다. 당신의 꿈은 이룰 수 있는 것임을 이솝이야기가 함께 보여드리겠습니다.
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: 사업 문의
+    link: "#contact"
