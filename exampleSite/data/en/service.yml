@@ -3,10 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: WordPress Theme
+  - name: Advertising video production
     icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Produce the best video with a brilliant story of groundbreaking ideas.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
