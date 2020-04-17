@@ -5,6 +5,5 @@ image_webp: "/images/incu-1.jpg"
 image: ''
 author: Don
 description: ''
-draft: true
 
 ---
