@@ -5,6 +5,5 @@ image_webp: "/images/incu-1.jpg"
 image: ''
 author: 채용공고
 description: ''
-draft: true
 
 ---
